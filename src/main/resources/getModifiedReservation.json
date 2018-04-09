@@ -1,0 +1,3037 @@
+{
+	"_xFieldBitmask_": [
+		0
+	],
+	"header": {
+		"sourceId": "aurora-orms-dmp-devweb-f751d2e0-27ec-11e8-91fa-5254008ae50f",
+		"sessionId": "3e271d27-284d-4434-9628-b6df39ea32b0",
+		"transactionId": "5d2bdf30-3985-11e8-91fa-5254008ae50f",
+		"requestId": "5d2bdf30-3985-11e8-91fa-5254008ae50f",
+		"senderVersion": {
+			"majorVersion": 1,
+			"minorVersion": 0,
+			"bufferBacked": false,
+			"referenceCounted": false,
+			"ownerCount": 2147483647,
+			"isReadOnly": false,
+			"dirty": true,
+			"valid": true,
+			"_xFieldBitmask_": [
+				0
+			]
+		},
+		"bufferBacked": false,
+		"referenceCounted": false,
+		"ownerCount": 2147483647,
+		"isReadOnly": false,
+		"dirty": true,
+		"valid": true,
+		"_xFieldBitmask_": [
+			0
+		]
+	},
+	"modifiedReservation": {
+		"instance": 1,
+		"numRooms": 1,
+		"bookDate": 1522999121026,
+		"checkInDate": 1523516400000,
+		"checkOutDate": 1523862000000,
+		"numAdults": 2,
+		"numChildren": 0,
+		"billingType": "CustomerCreditCard",
+		"state": "Booked",
+		"postingFlow": "Make",
+		"postingState": "Success",
+		"postingStartedAt": 1522999123265,
+		"postingEndedAt": 0,
+		"amountDue": 7669.12,
+		"createdAt": 1522999123262,
+		"updatedAt": 1523009772933,
+		"syncFromOperaAt": 0,
+		"pointCharges": 0,
+		"nrgStatus": false,
+		"id": "378020609",
+		"itineraryId": "378019841",
+		"propertyId": "66964e2b-2550-4476-84c3-1a4c0c5c067f",
+		"roomTypeId": "f44d10c3-aeaa-4aa1-8d94-1d0df9017437",
+		"guaranteeCode": "CC",
+		"profile": {
+			"id": 47008317441,
+			"mlifeNo": 75629787,
+			"modifiable": false,
+			"createdAt": 0,
+			"updatedAt": 0,
+			"refreshedAt": 1523009772426,
+			"stale": false,
+			"externalSyncAt": 0,
+			"caslOptin": false,
+			"operaId": "800538853",
+			"firstName": "Sapan",
+			"lastName": "Prajapati",
+			"emailAddress1": "cricbuzz@yopmail.com",
+			"phoneNumbers": [
+				{
+					"type": "Other",
+					"number": "8878789654",
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				}
+			],
+			"addresses": [
+				{
+					"type": "Home",
+					"preferred": false,
+					"street1": "India",
+					"street2": "India",
+					"city": "India",
+					"country": "IN",
+					"postalCode": "111111",
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				}
+			],
+			"phoneNumbersEmptyIfNull": [
+				{
+					"type": "Other",
+					"number": "8878789654",
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				}
+			],
+			"addressesEmptyIfNull": [
+				{
+					"type": "Home",
+					"preferred": false,
+					"street1": "India",
+					"street2": "India",
+					"city": "India",
+					"country": "IN",
+					"postalCode": "111111",
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				}
+			],
+			"identificationsEmptyIfNull": [],
+			"bufferBacked": false,
+			"referenceCounted": false,
+			"ownerCount": 2147483647,
+			"partnerInterestsEmptyIfNull": [],
+			"isReadOnly": false,
+			"dirty": true,
+			"valid": true,
+			"_xFieldBitmask_": [
+				0
+			]
+		},
+		"specialRequests": [
+			"223ba34d-d713-4f1e-8c63-ba8bc2408dfe"
+		],
+		"bookings": [
+			{
+				"date": 1523516400000,
+				"basePrice": 10024.99,
+				"customerPrice": 7518.7425,
+				"price": 7518.7425,
+				"programIdIsRateTable": false,
+				"overridePrice": -1,
+				"overrideProgramIdIsRateTable": false,
+				"isComp": false,
+				"resortFeeIsSpecified": false,
+				"resortFee": 0,
+				"programId": "39e4a2b9-5f42-4b26-a3f1-db2c120f552d",
+				"pricingRuleId": "d5e6b2a4-eb32-49d5-a675-31ad2cd6d637",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			},
+			{
+				"date": 1523602800000,
+				"basePrice": 10034.99,
+				"customerPrice": 8027.992,
+				"price": 8027.992,
+				"programIdIsRateTable": false,
+				"overridePrice": -1,
+				"overrideProgramIdIsRateTable": false,
+				"isComp": false,
+				"resortFeeIsSpecified": false,
+				"resortFee": 0,
+				"programId": "39e4a2b9-5f42-4b26-a3f1-db2c120f552d",
+				"pricingRuleId": "27a184e6-15e7-4d5b-9cf6-68e9b8a23423",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			},
+			{
+				"date": 1523689200000,
+				"basePrice": 10034.99,
+				"customerPrice": 0,
+				"price": 8027.992,
+				"programIdIsRateTable": false,
+				"overridePrice": -1,
+				"overrideProgramIdIsRateTable": false,
+				"isComp": false,
+				"resortFeeIsSpecified": false,
+				"resortFee": 0,
+				"programId": "39e4a2b9-5f42-4b26-a3f1-db2c120f552d",
+				"pricingRuleId": "27a184e6-15e7-4d5b-9cf6-68e9b8a23423",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			},
+			{
+				"date": 1523775600000,
+				"basePrice": 10024.99,
+				"customerPrice": 0,
+				"price": 7518.7425,
+				"programIdIsRateTable": false,
+				"overridePrice": -1,
+				"overrideProgramIdIsRateTable": false,
+				"isComp": false,
+				"resortFeeIsSpecified": false,
+				"resortFee": 0,
+				"programId": "39e4a2b9-5f42-4b26-a3f1-db2c120f552d",
+				"pricingRuleId": "d5e6b2a4-eb32-49d5-a675-31ad2cd6d637",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			}
+		],
+		"markets": [
+			{
+				"date": 1523516400000,
+				"marketCode": "TPKG",
+				"sourceCode": "TFITIWB",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			},
+			{
+				"date": 1523602800000,
+				"marketCode": "TPKG",
+				"sourceCode": "TFITIWB",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			},
+			{
+				"date": 1523689200000,
+				"marketCode": "TPKG",
+				"sourceCode": "TFITIWB",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			},
+			{
+				"date": 1523775600000,
+				"marketCode": "TPKG",
+				"sourceCode": "TFITIWB",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			}
+		],
+		"chargesAndTaxesCalc": {
+			"charges": [
+				{
+					"date": 1523516400000,
+					"amount": 7582.7425,
+					"pointsUsed": 0,
+					"itemized": [
+						{
+							"itemType": "RoomCharge",
+							"amount": 7518.7425,
+							"pointsUsed": 0,
+							"item": "Room Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestCharge",
+							"amount": 0,
+							"pointsUsed": 0,
+							"item": "Extra Guest Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFee",
+							"amount": 35,
+							"pointsUsed": -1,
+							"item": "Resort Fee",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentCharge",
+							"amount": 29,
+							"pointsUsed": 0,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"itemizedEmptyIfNull": [
+						{
+							"itemType": "RoomCharge",
+							"amount": 7518.7425,
+							"pointsUsed": 0,
+							"item": "Room Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestCharge",
+							"amount": 0,
+							"pointsUsed": 0,
+							"item": "Extra Guest Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFee",
+							"amount": 35,
+							"pointsUsed": -1,
+							"item": "Resort Fee",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentCharge",
+							"amount": 29,
+							"pointsUsed": 0,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				},
+				{
+					"date": 1523602800000,
+					"amount": 8091.992,
+					"pointsUsed": 0,
+					"itemized": [
+						{
+							"itemType": "RoomCharge",
+							"amount": 8027.992,
+							"pointsUsed": 0,
+							"item": "Room Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestCharge",
+							"amount": 0,
+							"pointsUsed": 0,
+							"item": "Extra Guest Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFee",
+							"amount": 35,
+							"pointsUsed": -1,
+							"item": "Resort Fee",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentCharge",
+							"amount": 29,
+							"pointsUsed": 0,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"itemizedEmptyIfNull": [
+						{
+							"itemType": "RoomCharge",
+							"amount": 8027.992,
+							"pointsUsed": 0,
+							"item": "Room Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestCharge",
+							"amount": 0,
+							"pointsUsed": 0,
+							"item": "Extra Guest Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFee",
+							"amount": 35,
+							"pointsUsed": -1,
+							"item": "Resort Fee",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentCharge",
+							"amount": 29,
+							"pointsUsed": 0,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				},
+				{
+					"date": 1523689200000,
+					"amount": 8091.992,
+					"pointsUsed": 0,
+					"itemized": [
+						{
+							"itemType": "RoomCharge",
+							"amount": 8027.992,
+							"pointsUsed": 0,
+							"item": "Room Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestCharge",
+							"amount": 0,
+							"pointsUsed": 0,
+							"item": "Extra Guest Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFee",
+							"amount": 35,
+							"pointsUsed": -1,
+							"item": "Resort Fee",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentCharge",
+							"amount": 29,
+							"pointsUsed": 0,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"itemizedEmptyIfNull": [
+						{
+							"itemType": "RoomCharge",
+							"amount": 8027.992,
+							"pointsUsed": 0,
+							"item": "Room Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestCharge",
+							"amount": 0,
+							"pointsUsed": 0,
+							"item": "Extra Guest Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFee",
+							"amount": 35,
+							"pointsUsed": -1,
+							"item": "Resort Fee",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentCharge",
+							"amount": 29,
+							"pointsUsed": 0,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				},
+				{
+					"date": 1523775600000,
+					"amount": 7582.7425,
+					"pointsUsed": 0,
+					"itemized": [
+						{
+							"itemType": "RoomCharge",
+							"amount": 7518.7425,
+							"pointsUsed": 0,
+							"item": "Room Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestCharge",
+							"amount": 0,
+							"pointsUsed": 0,
+							"item": "Extra Guest Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFee",
+							"amount": 35,
+							"pointsUsed": -1,
+							"item": "Resort Fee",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentCharge",
+							"amount": 29,
+							"pointsUsed": 0,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"itemizedEmptyIfNull": [
+						{
+							"itemType": "RoomCharge",
+							"amount": 7518.7425,
+							"pointsUsed": 0,
+							"item": "Room Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestCharge",
+							"amount": 0,
+							"pointsUsed": 0,
+							"item": "Extra Guest Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFee",
+							"amount": 35,
+							"pointsUsed": -1,
+							"item": "Resort Fee",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentCharge",
+							"amount": 29,
+							"pointsUsed": 0,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				}
+			],
+			"taxesAndFees": [
+				{
+					"date": 1523516400000,
+					"amount": 151.07485,
+					"pointsUsed": -1,
+					"itemized": [
+						{
+							"itemType": "RoomChargeTax",
+							"amount": 150.37485,
+							"pointsUsed": -1,
+							"item": "Room Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "Extra Guest Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFeeTax",
+							"amount": 0.7,
+							"pointsUsed": -1,
+							"item": "Resort Fee Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"itemizedEmptyIfNull": [
+						{
+							"itemType": "RoomChargeTax",
+							"amount": 150.37485,
+							"pointsUsed": -1,
+							"item": "Room Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "Extra Guest Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFeeTax",
+							"amount": 0.7,
+							"pointsUsed": -1,
+							"item": "Resort Fee Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				},
+				{
+					"date": 1523602800000,
+					"amount": 161.25984,
+					"pointsUsed": -1,
+					"itemized": [
+						{
+							"itemType": "RoomChargeTax",
+							"amount": 160.55984,
+							"pointsUsed": -1,
+							"item": "Room Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "Extra Guest Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFeeTax",
+							"amount": 0.7,
+							"pointsUsed": -1,
+							"item": "Resort Fee Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"itemizedEmptyIfNull": [
+						{
+							"itemType": "RoomChargeTax",
+							"amount": 160.55984,
+							"pointsUsed": -1,
+							"item": "Room Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "Extra Guest Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFeeTax",
+							"amount": 0.7,
+							"pointsUsed": -1,
+							"item": "Resort Fee Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				},
+				{
+					"date": 1523689200000,
+					"amount": 161.25984,
+					"pointsUsed": -1,
+					"itemized": [
+						{
+							"itemType": "RoomChargeTax",
+							"amount": 160.55984,
+							"pointsUsed": -1,
+							"item": "Room Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "Extra Guest Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFeeTax",
+							"amount": 0.7,
+							"pointsUsed": -1,
+							"item": "Resort Fee Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"itemizedEmptyIfNull": [
+						{
+							"itemType": "RoomChargeTax",
+							"amount": 160.55984,
+							"pointsUsed": -1,
+							"item": "Room Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "Extra Guest Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFeeTax",
+							"amount": 0.7,
+							"pointsUsed": -1,
+							"item": "Resort Fee Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				},
+				{
+					"date": 1523775600000,
+					"amount": 151.07485,
+					"pointsUsed": -1,
+					"itemized": [
+						{
+							"itemType": "RoomChargeTax",
+							"amount": 150.37485,
+							"pointsUsed": -1,
+							"item": "Room Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "Extra Guest Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFeeTax",
+							"amount": 0.7,
+							"pointsUsed": -1,
+							"item": "Resort Fee Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"itemizedEmptyIfNull": [
+						{
+							"itemType": "RoomChargeTax",
+							"amount": 150.37485,
+							"pointsUsed": -1,
+							"item": "Room Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "Extra Guest Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFeeTax",
+							"amount": 0.7,
+							"pointsUsed": -1,
+							"item": "Resort Fee Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				}
+			],
+			"bufferBacked": false,
+			"referenceCounted": false,
+			"ownerCount": 2147483647,
+			"isReadOnly": false,
+			"chargesEmptyIfNull": [
+				{
+					"date": 1523516400000,
+					"amount": 7582.7425,
+					"pointsUsed": 0,
+					"itemized": [
+						{
+							"itemType": "RoomCharge",
+							"amount": 7518.7425,
+							"pointsUsed": 0,
+							"item": "Room Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestCharge",
+							"amount": 0,
+							"pointsUsed": 0,
+							"item": "Extra Guest Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFee",
+							"amount": 35,
+							"pointsUsed": -1,
+							"item": "Resort Fee",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentCharge",
+							"amount": 29,
+							"pointsUsed": 0,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"itemizedEmptyIfNull": [
+						{
+							"itemType": "RoomCharge",
+							"amount": 7518.7425,
+							"pointsUsed": 0,
+							"item": "Room Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestCharge",
+							"amount": 0,
+							"pointsUsed": 0,
+							"item": "Extra Guest Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFee",
+							"amount": 35,
+							"pointsUsed": -1,
+							"item": "Resort Fee",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentCharge",
+							"amount": 29,
+							"pointsUsed": 0,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				},
+				{
+					"date": 1523602800000,
+					"amount": 8091.992,
+					"pointsUsed": 0,
+					"itemized": [
+						{
+							"itemType": "RoomCharge",
+							"amount": 8027.992,
+							"pointsUsed": 0,
+							"item": "Room Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestCharge",
+							"amount": 0,
+							"pointsUsed": 0,
+							"item": "Extra Guest Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFee",
+							"amount": 35,
+							"pointsUsed": -1,
+							"item": "Resort Fee",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentCharge",
+							"amount": 29,
+							"pointsUsed": 0,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"itemizedEmptyIfNull": [
+						{
+							"itemType": "RoomCharge",
+							"amount": 8027.992,
+							"pointsUsed": 0,
+							"item": "Room Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestCharge",
+							"amount": 0,
+							"pointsUsed": 0,
+							"item": "Extra Guest Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFee",
+							"amount": 35,
+							"pointsUsed": -1,
+							"item": "Resort Fee",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentCharge",
+							"amount": 29,
+							"pointsUsed": 0,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				},
+				{
+					"date": 1523689200000,
+					"amount": 8091.992,
+					"pointsUsed": 0,
+					"itemized": [
+						{
+							"itemType": "RoomCharge",
+							"amount": 8027.992,
+							"pointsUsed": 0,
+							"item": "Room Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestCharge",
+							"amount": 0,
+							"pointsUsed": 0,
+							"item": "Extra Guest Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFee",
+							"amount": 35,
+							"pointsUsed": -1,
+							"item": "Resort Fee",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentCharge",
+							"amount": 29,
+							"pointsUsed": 0,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"itemizedEmptyIfNull": [
+						{
+							"itemType": "RoomCharge",
+							"amount": 8027.992,
+							"pointsUsed": 0,
+							"item": "Room Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestCharge",
+							"amount": 0,
+							"pointsUsed": 0,
+							"item": "Extra Guest Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFee",
+							"amount": 35,
+							"pointsUsed": -1,
+							"item": "Resort Fee",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentCharge",
+							"amount": 29,
+							"pointsUsed": 0,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				},
+				{
+					"date": 1523775600000,
+					"amount": 7582.7425,
+					"pointsUsed": 0,
+					"itemized": [
+						{
+							"itemType": "RoomCharge",
+							"amount": 7518.7425,
+							"pointsUsed": 0,
+							"item": "Room Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestCharge",
+							"amount": 0,
+							"pointsUsed": 0,
+							"item": "Extra Guest Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFee",
+							"amount": 35,
+							"pointsUsed": -1,
+							"item": "Resort Fee",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentCharge",
+							"amount": 29,
+							"pointsUsed": 0,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"itemizedEmptyIfNull": [
+						{
+							"itemType": "RoomCharge",
+							"amount": 7518.7425,
+							"pointsUsed": 0,
+							"item": "Room Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestCharge",
+							"amount": 0,
+							"pointsUsed": 0,
+							"item": "Extra Guest Charge",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFee",
+							"amount": 35,
+							"pointsUsed": -1,
+							"item": "Resort Fee",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentCharge",
+							"amount": 29,
+							"pointsUsed": 0,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				}
+			],
+			"taxesAndFeesEmptyIfNull": [
+				{
+					"date": 1523516400000,
+					"amount": 151.07485,
+					"pointsUsed": -1,
+					"itemized": [
+						{
+							"itemType": "RoomChargeTax",
+							"amount": 150.37485,
+							"pointsUsed": -1,
+							"item": "Room Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "Extra Guest Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFeeTax",
+							"amount": 0.7,
+							"pointsUsed": -1,
+							"item": "Resort Fee Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"itemizedEmptyIfNull": [
+						{
+							"itemType": "RoomChargeTax",
+							"amount": 150.37485,
+							"pointsUsed": -1,
+							"item": "Room Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "Extra Guest Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFeeTax",
+							"amount": 0.7,
+							"pointsUsed": -1,
+							"item": "Resort Fee Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				},
+				{
+					"date": 1523602800000,
+					"amount": 161.25984,
+					"pointsUsed": -1,
+					"itemized": [
+						{
+							"itemType": "RoomChargeTax",
+							"amount": 160.55984,
+							"pointsUsed": -1,
+							"item": "Room Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "Extra Guest Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFeeTax",
+							"amount": 0.7,
+							"pointsUsed": -1,
+							"item": "Resort Fee Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"itemizedEmptyIfNull": [
+						{
+							"itemType": "RoomChargeTax",
+							"amount": 160.55984,
+							"pointsUsed": -1,
+							"item": "Room Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "Extra Guest Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFeeTax",
+							"amount": 0.7,
+							"pointsUsed": -1,
+							"item": "Resort Fee Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				},
+				{
+					"date": 1523689200000,
+					"amount": 161.25984,
+					"pointsUsed": -1,
+					"itemized": [
+						{
+							"itemType": "RoomChargeTax",
+							"amount": 160.55984,
+							"pointsUsed": -1,
+							"item": "Room Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "Extra Guest Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFeeTax",
+							"amount": 0.7,
+							"pointsUsed": -1,
+							"item": "Resort Fee Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"itemizedEmptyIfNull": [
+						{
+							"itemType": "RoomChargeTax",
+							"amount": 160.55984,
+							"pointsUsed": -1,
+							"item": "Room Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "Extra Guest Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFeeTax",
+							"amount": 0.7,
+							"pointsUsed": -1,
+							"item": "Resort Fee Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				},
+				{
+					"date": 1523775600000,
+					"amount": 151.07485,
+					"pointsUsed": -1,
+					"itemized": [
+						{
+							"itemType": "RoomChargeTax",
+							"amount": 150.37485,
+							"pointsUsed": -1,
+							"item": "Room Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "Extra Guest Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFeeTax",
+							"amount": 0.7,
+							"pointsUsed": -1,
+							"item": "Resort Fee Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"itemizedEmptyIfNull": [
+						{
+							"itemType": "RoomChargeTax",
+							"amount": 150.37485,
+							"pointsUsed": -1,
+							"item": "Room Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ExtraGuestChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "Extra Guest Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ResortFeeTax",
+							"amount": 0.7,
+							"pointsUsed": -1,
+							"item": "Resort Fee Tax",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						},
+						{
+							"itemType": "ComponentChargeTax",
+							"amount": 0,
+							"pointsUsed": -1,
+							"item": "MGMRESORTFEE$29",
+							"bufferBacked": false,
+							"referenceCounted": false,
+							"ownerCount": 2147483647,
+							"isReadOnly": false,
+							"dirty": true,
+							"valid": true,
+							"_xFieldBitmask_": [
+								0
+							]
+						}
+					],
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				}
+			],
+			"dirty": true,
+			"valid": true,
+			"_xFieldBitmask_": [
+				0
+			]
+		},
+		"depositPolicyCalc": {
+			"depositRequired": true,
+			"creditCardRequired": true,
+			"bufferBacked": false,
+			"referenceCounted": false,
+			"ownerCount": 2147483647,
+			"isReadOnly": false,
+			"dirty": true,
+			"valid": true,
+			"_xFieldBitmask_": [
+				0
+			]
+		},
+		"depositCalc": {
+			"dueDate": 1523010559179,
+			"amountPolicy": "Nights",
+			"amount": 7669.11735,
+			"forfeitDate": 1523257200000,
+			"forfeitAmount": 7669.11735,
+			"overrideAmount": -1,
+			"depositRuleCode": "1NT",
+			"cancellationRuleCode": "72H",
+			"itemized": [
+				{
+					"itemType": "RoomCharge",
+					"amount": 7518.7425,
+					"pointsUsed": 0,
+					"item": "Room Charge",
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				},
+				{
+					"itemType": "RoomChargeTax",
+					"amount": 150.37485,
+					"pointsUsed": -1,
+					"item": "Room Tax",
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				}
+			],
+			"pointAmount": {
+				"dollarValue": 7669.11735,
+				"pointValue": 0,
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			},
+			"bufferBacked": false,
+			"referenceCounted": false,
+			"ownerCount": 2147483647,
+			"isReadOnly": false,
+			"itemizedEmptyIfNull": [
+				{
+					"itemType": "RoomCharge",
+					"amount": 7518.7425,
+					"pointsUsed": 0,
+					"item": "Room Charge",
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				},
+				{
+					"itemType": "RoomChargeTax",
+					"amount": 150.37485,
+					"pointsUsed": -1,
+					"item": "Room Tax",
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				}
+			],
+			"dirty": true,
+			"valid": true,
+			"_xFieldBitmask_": [
+				0
+			]
+		},
+		"creditCardCharges": [
+			{
+				"expiry": 1651343399000,
+				"amount": 7669.11735,
+				"holder": "sapan",
+				"number": "holEgtGIDYgP08TqBjXWcQdSrF9RkYnJO/A0Hth96SuKEUU9jXyCbH0S7FP4mMMsMTwDpccZz7xwd0NBgjB9yA==",
+				"maskedNumber": "XXXXXXXXXXXXXXXXXXXXXXXX4444",
+				"type": "Mastercard",
+				"holderProfile": {
+					"firstName": "Sapan",
+					"lastName": "Prajapati",
+					"address": {
+						"type": "Home",
+						"preferred": false,
+						"street1": "India",
+						"street2": "India",
+						"city": "India",
+						"state": "IND",
+						"country": "IN",
+						"postalCode": "111111",
+						"bufferBacked": false,
+						"referenceCounted": false,
+						"ownerCount": 2147483647,
+						"isReadOnly": false,
+						"dirty": true,
+						"valid": true,
+						"_xFieldBitmask_": [
+							0
+						]
+					},
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				},
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			}
+		],
+		"operaState": "RESERVED",
+		"channelId": "28d4c708-51c0-4998-9601-e1c7890380ba",
+		"origin": "mgmgrandlv",
+		"source": "mgmgrandlv",
+		"confirmationNumber": "M00ACF361",
+		"operaConfirmationNumber": "776008940",
+		"payments": [
+			{
+				"reservationInstance": 1,
+				"chargeAmount": 7669.12,
+				"chargeCardExpiry": 1651343399000,
+				"dccChecked": true,
+				"dccEligible": false,
+				"dccTransDate": 1522999121000,
+				"dccAmount": 0,
+				"dccRate": 0,
+				"dccSettleAmount": 7669.12,
+				"status": "Settled",
+				"isDeposit": false,
+				"isExternal": false,
+				"chargeCardHolder": "sapan",
+				"chargeCurrencyCode": "USD",
+				"chargeCardType": "Mastercard",
+				"chargeCardMaskedNumber": "XXXXXXXXXXXXXXXXXXXXXXXX4444",
+				"chargeCardNumber": "holEgtGIDYgP08TqBjXWcQdSrF9RkYnJO/A0Hth96SuKEUU9jXyCbH0S7FP4mMMsMTwDpccZz7xwd0NBgjB9yA==",
+				"dccCurrencyCode": "USD",
+				"dccAcceptMessage": "Approved",
+				"dccAuthApprovalCode": "417119",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			},
+			{
+				"reservationInstance": 0,
+				"chargeAmount": 7669.12,
+				"dccChecked": false,
+				"dccEligible": false,
+				"dccTransDate": 1513584000000,
+				"dccAmount": 0,
+				"dccRate": 0,
+				"dccSettleAmount": 0,
+				"isDeposit": true,
+				"isExternal": true,
+				"chargeCardType": "Mastercard",
+				"chargeCardMaskedNumber": "XXXXXXXXXXXX4444",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			}
+		],
+		"bufferBacked": false,
+		"referenceCounted": false,
+		"ownerCount": 2147483647,
+		"creditCardChargesEmptyIfNull": [
+			{
+				"expiry": 1651343399000,
+				"amount": 7669.11735,
+				"holder": "sapan",
+				"number": "holEgtGIDYgP08TqBjXWcQdSrF9RkYnJO/A0Hth96SuKEUU9jXyCbH0S7FP4mMMsMTwDpccZz7xwd0NBgjB9yA==",
+				"maskedNumber": "XXXXXXXXXXXXXXXXXXXXXXXX4444",
+				"type": "Mastercard",
+				"holderProfile": {
+					"firstName": "Sapan",
+					"lastName": "Prajapati",
+					"address": {
+						"type": "Home",
+						"preferred": false,
+						"street1": "India",
+						"street2": "India",
+						"city": "India",
+						"state": "IND",
+						"country": "IN",
+						"postalCode": "111111",
+						"bufferBacked": false,
+						"referenceCounted": false,
+						"ownerCount": 2147483647,
+						"isReadOnly": false,
+						"dirty": true,
+						"valid": true,
+						"_xFieldBitmask_": [
+							0
+						]
+					},
+					"bufferBacked": false,
+					"referenceCounted": false,
+					"ownerCount": 2147483647,
+					"isReadOnly": false,
+					"dirty": true,
+					"valid": true,
+					"_xFieldBitmask_": [
+						0
+					]
+				},
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			}
+		],
+		"isReadOnly": false,
+		"additionalCommentsEmptyIfNull": [],
+		"specialRequestsEmptyIfNull": [
+			"223ba34d-d713-4f1e-8c63-ba8bc2408dfe"
+		],
+		"routingInstructionsEmptyIfNull": [],
+		"bookingsEmptyIfNull": [
+			{
+				"date": 1523516400000,
+				"basePrice": 10024.99,
+				"customerPrice": 7518.7425,
+				"price": 7518.7425,
+				"programIdIsRateTable": false,
+				"overridePrice": -1,
+				"overrideProgramIdIsRateTable": false,
+				"isComp": false,
+				"resortFeeIsSpecified": false,
+				"resortFee": 0,
+				"programId": "39e4a2b9-5f42-4b26-a3f1-db2c120f552d",
+				"pricingRuleId": "d5e6b2a4-eb32-49d5-a675-31ad2cd6d637",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			},
+			{
+				"date": 1523602800000,
+				"basePrice": 10034.99,
+				"customerPrice": 8027.992,
+				"price": 8027.992,
+				"programIdIsRateTable": false,
+				"overridePrice": -1,
+				"overrideProgramIdIsRateTable": false,
+				"isComp": false,
+				"resortFeeIsSpecified": false,
+				"resortFee": 0,
+				"programId": "39e4a2b9-5f42-4b26-a3f1-db2c120f552d",
+				"pricingRuleId": "27a184e6-15e7-4d5b-9cf6-68e9b8a23423",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			},
+			{
+				"date": 1523689200000,
+				"basePrice": 10034.99,
+				"customerPrice": 0,
+				"price": 8027.992,
+				"programIdIsRateTable": false,
+				"overridePrice": -1,
+				"overrideProgramIdIsRateTable": false,
+				"isComp": false,
+				"resortFeeIsSpecified": false,
+				"resortFee": 0,
+				"programId": "39e4a2b9-5f42-4b26-a3f1-db2c120f552d",
+				"pricingRuleId": "27a184e6-15e7-4d5b-9cf6-68e9b8a23423",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			},
+			{
+				"date": 1523775600000,
+				"basePrice": 10024.99,
+				"customerPrice": 0,
+				"price": 7518.7425,
+				"programIdIsRateTable": false,
+				"overridePrice": -1,
+				"overrideProgramIdIsRateTable": false,
+				"isComp": false,
+				"resortFeeIsSpecified": false,
+				"resortFee": 0,
+				"programId": "39e4a2b9-5f42-4b26-a3f1-db2c120f552d",
+				"pricingRuleId": "d5e6b2a4-eb32-49d5-a675-31ad2cd6d637",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			}
+		],
+		"marketsEmptyIfNull": [
+			{
+				"date": 1523516400000,
+				"marketCode": "TPKG",
+				"sourceCode": "TFITIWB",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			},
+			{
+				"date": 1523602800000,
+				"marketCode": "TPKG",
+				"sourceCode": "TFITIWB",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			},
+			{
+				"date": 1523689200000,
+				"marketCode": "TPKG",
+				"sourceCode": "TFITIWB",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			},
+			{
+				"date": 1523775600000,
+				"marketCode": "TPKG",
+				"sourceCode": "TFITIWB",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			}
+		],
+		"alertsEmptyIfNull": [],
+		"tracesEmptyIfNull": [],
+		"shareWithsEmptyIfNull": [],
+		"paymentsEmptyIfNull": [
+			{
+				"reservationInstance": 1,
+				"chargeAmount": 7669.12,
+				"chargeCardExpiry": 1651343399000,
+				"dccChecked": true,
+				"dccEligible": false,
+				"dccTransDate": 1522999121000,
+				"dccAmount": 0,
+				"dccRate": 0,
+				"dccSettleAmount": 7669.12,
+				"status": "Settled",
+				"isDeposit": false,
+				"isExternal": false,
+				"chargeCardHolder": "sapan",
+				"chargeCurrencyCode": "USD",
+				"chargeCardType": "Mastercard",
+				"chargeCardMaskedNumber": "XXXXXXXXXXXXXXXXXXXXXXXX4444",
+				"chargeCardNumber": "holEgtGIDYgP08TqBjXWcQdSrF9RkYnJO/A0Hth96SuKEUU9jXyCbH0S7FP4mMMsMTwDpccZz7xwd0NBgjB9yA==",
+				"dccCurrencyCode": "USD",
+				"dccAcceptMessage": "Approved",
+				"dccAuthApprovalCode": "417119",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			},
+			{
+				"reservationInstance": 0,
+				"chargeAmount": 7669.12,
+				"dccChecked": false,
+				"dccEligible": false,
+				"dccTransDate": 1513584000000,
+				"dccAmount": 0,
+				"dccRate": 0,
+				"dccSettleAmount": 0,
+				"isDeposit": true,
+				"isExternal": true,
+				"chargeCardType": "Mastercard",
+				"chargeCardMaskedNumber": "XXXXXXXXXXXX4444",
+				"bufferBacked": false,
+				"referenceCounted": false,
+				"ownerCount": 2147483647,
+				"isReadOnly": false,
+				"dirty": true,
+				"valid": true,
+				"_xFieldBitmask_": [
+					0
+				]
+			}
+		],
+		"pointPaymentsEmptyIfNull": [],
+		"dirty": true,
+		"valid": true,
+		"_xFieldBitmask_": [
+			0
+		]
+	},
+	"xRogType": 2
+}
